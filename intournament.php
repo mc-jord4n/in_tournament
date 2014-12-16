@@ -11,7 +11,7 @@ Author URI:
 /*
  * DEFINES 
  */
-define('IN_ICON', 'http://www.ingame.de/wp-content/themes/intheme_ingame/img/favicon.ico');
+define('IN_ICON', '../wp-content/plugins/in_tournament/public/img/favicon.ico');
 
 /*
  * Wordpress Hooks
